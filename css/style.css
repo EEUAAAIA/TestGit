@@ -18,6 +18,11 @@ p{
     color: blue;
 }
 
-;.paragraphe4{
+.paragraphe4{
     color: pink;
+}
+
+.paragraphe5{
+    color: white;
+    background: black;
 }
